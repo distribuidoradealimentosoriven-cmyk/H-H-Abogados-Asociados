@@ -1,0 +1,6 @@
+{
+  "name": "H&H Abogados",
+  "description": "Firma de Abogados Especialistas en Litigio, Civil, Mercantil y Gestión Remota en Venezuela",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
